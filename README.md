@@ -1,4 +1,6 @@
 # hello-world
 
-This is a small change in the copied file off the main, 
-to make commit changes in the file 
+- 👋 Hi, I’m Somesh
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning REACTJS 
+- 📫 How to reach me.....
